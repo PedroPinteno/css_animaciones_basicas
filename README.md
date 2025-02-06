@@ -81,8 +81,8 @@ css_animaciones-main/
 ## 👤 Autor
 
 **SatruxDev**
-- Website: [satruxdev.com](https://satruxdev.com)
-- GitHub: [@satruxdev](https://github.com/satruxdev)
+- Website: [satruxdev.com](https://satruxdev.com)[proximamente]
+- GitHub: [@satruxdev](https://github.com/PedroPinteno)
 
 ## 📝 Licencia
 
